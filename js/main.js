@@ -14,7 +14,7 @@ class Group {
 }
 
 let auditoriums = [
-    new Auditorium('11', 15, 'OOП'),
+    new Auditorium('11', 15, 'ООП'),
     new Auditorium('13', 18, 'Математика'),
     new Auditorium('14', 12, 'JavaScript'),
     new Auditorium('1', 1, 'Я'),
